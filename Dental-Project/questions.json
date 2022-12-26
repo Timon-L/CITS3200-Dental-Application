@@ -1,0 +1,23 @@
+{
+    "questions": [
+        {
+            "question": "How long should you brush your teeth for?",
+            "answers": [
+                "10 Seconds",
+                "1 Hour",
+                "2 Mintues",
+                "Forever"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "question": "How long will it take to complete this application?",
+            "answers": [
+                "5 years",
+                "After I've lost my sanity",
+                "2 minutes"
+            ],
+            "correctIndex": 1
+        }
+    ]
+}
